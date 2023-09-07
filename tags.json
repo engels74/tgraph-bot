@@ -1,0 +1,11 @@
+{
+  "nightly": {
+    "tags": [
+      "nightly",
+      "nightly-d8e6acdd64fd4d8d215adfb40c5e8051eaec659f",
+      "nightly-ea01a5a"
+    ],
+    "last_updated": "2023-09-07T19:42:28.491Z",
+    "latest": "false"
+  }
+}
