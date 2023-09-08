@@ -1,11 +1,21 @@
 {
   "nightly": {
+    "last_updated": "2023-09-08T01:41:22.281Z",
+    "latest": "false",
     "tags": [
       "nightly",
       "nightly-6a9082e3281c7ad5c0df2acc55923971523743ba",
       "nightly-531587d"
-    ],
-    "last_updated": "2023-09-08T01:41:22.281Z",
-    "latest": "false"
+    ]
+  },
+  "release": {
+    "description": "Releases",
+    "last_updated": "2023-09-08T06:21:35.978Z",
+    "latest": true,
+    "tags": [
+      "release",
+      "release-4.0.3",
+      "release-02b26f3"
+    ]
   }
 }
