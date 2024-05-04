@@ -2,13 +2,13 @@
   "nightly": {
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2024-05-04T14:27:38.000Z",
-    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/8951169488",
+    "last_updated": "2024-05-04T14:43:16.000Z",
+    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/8951260287",
     "latest": false,
     "tags": [
       "nightly",
-      "nightly-b6248d8bdbf954f029da93d394ba05d1186d8b1a",
-      "nightly-ecfd3fd"
+      "nightly-065fd5198b13b6ef8af791e3c714344b40144392",
+      "nightly-e68f169"
     ]
   },
   "release": {
