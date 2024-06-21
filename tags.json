@@ -22,5 +22,17 @@
       "release-0.0.6",
       "release-b52a2ec"
     ]
+  },
+  "testing": {
+    "description": "Releases",
+    "hide": false,
+    "last_updated": "2024-06-21T14:54:52.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9615375399",
+    "latest": true,
+    "tags": [
+      "testing",
+      "testing-0.0.6",
+      "testing-b3e4e33"
+    ]
   }
 }
