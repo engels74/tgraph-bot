@@ -26,13 +26,13 @@
   "testing": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2024-06-21T17:20:16.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9617216908",
+    "last_updated": "2024-06-21T20:01:19.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9619021344",
     "latest": true,
     "tags": [
       "testing",
-      "testing-0.0.7-alpha04",
-      "testing-0ce4877"
+      "testing-0.0.7-alpha06",
+      "testing-fc293c0"
     ]
   }
 }
