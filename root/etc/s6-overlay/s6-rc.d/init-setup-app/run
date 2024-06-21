@@ -16,3 +16,11 @@ if [[ ! -f "${CONFIG_DIR}/config.yml" ]]; then
     cp "${APP_DIR}/config/config.yml.sample" "${CONFIG_DIR}/config.yml"
     find "${CONFIG_DIR}/config.yml" -maxdepth 0 \( ! -user hotio -or ! -group hotio \) -exec chown hotio:hotio {} +
 fi
+
+# Set up MPLCONFIGDIR
+echo "Setting up MPLCONFIGDIR..."
+mkdir -p "${MPLCONFIGDIR}"
+chmod "=rwx" "${MPLCONFIGDIR}"
+find "${MPLCONFIGDIR}" -maxdepth 0 \( ! -user hotio -or ! -group hotio \) -exec chown hotio:hotio {} +
+
+echo "Permissions applied successfully."
