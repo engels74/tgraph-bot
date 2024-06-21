@@ -12,15 +12,15 @@
     ]
   },
   "testing": {
-    "description": "Pre-Releases",
+    "description": "Releases",
     "hide": false,
-    "last_updated": "2024-06-21T20:01:19.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9619021344",
-    "latest": false,
+    "last_updated": "2024-06-21T20:23:20.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9619234165",
+    "latest": true,
     "tags": [
       "testing",
-      "testing-0.0.7-alpha06",
-      "testing-fc293c0"
+      "testing-0.0.7-alpha07",
+      "testing-7592342"
     ]
   }
 }
