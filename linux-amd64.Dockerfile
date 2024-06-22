@@ -14,4 +14,7 @@ RUN apk add --no-cache py3-pip && \
     pip3 install --break-system-packages --no-cache-dir --upgrade --requirement "${APP_DIR}/requirements.txt" && \
     apk del --purge build-dependencies
 
+# Set MPLCONFIGDIR environment variable
+ENV MPLCONFIGDIR=${APP_DIR}/.mplconfigdir
+
 COPY root/ /
