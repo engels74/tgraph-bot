@@ -8,7 +8,7 @@ If you need some assistance, please join our [discord](https://hotio.dev/discord
 
 # Source
 
-The source is hosted at [GitHub](https://github.com/engels74/tgraph-bot/tree/release). If you can't find it in the `master` branch, it's probably located in another branch.
+The source is hosted at [GitHub](https://github.com/engels74/tgraph-bot/tree/testing). If you can't find it in the `master` branch, it's probably located in another branch.
 
 # Show your support
 
