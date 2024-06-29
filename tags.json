@@ -14,13 +14,13 @@
   "testing": {
     "description": "Pre-Releases",
     "hide": false,
-    "last_updated": "2024-06-29T19:42:06.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9726409856",
+    "last_updated": "2024-06-29T20:15:31.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/9726555985",
     "latest": false,
     "tags": [
       "testing",
       "testing-0.1.1-alpha03",
-      "testing-fccf466"
+      "testing-5a53766"
     ]
   }
 }
