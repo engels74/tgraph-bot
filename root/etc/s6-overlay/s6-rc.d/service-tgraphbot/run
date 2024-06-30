@@ -4,4 +4,4 @@
 umask "${UMASK}"
 
 # shellcheck disable=SC2086
-exec s6-setuidgid hotio python3 "${APP_DIR}/main.py" --config-file "${CONFIG_DIR}/config.yml" --data-folder "${CONFIG_DIR}/data" --log-file "${CONFIG_DIR}/tgraphbot.log"
+exec s6-setuidgid hotio python3 "${APP_DIR}/main.py" --config-file "${CONFIG_DIR}/config.yml" --img-folder "${CONFIG_DIR}/img" --log-file "${CONFIG_DIR}/tgraphbot.log"
