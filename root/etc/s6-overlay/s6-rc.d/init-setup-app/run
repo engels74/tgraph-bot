@@ -17,6 +17,12 @@ if [[ ! -f "${CONFIG_DIR}/config.yml" ]]; then
     find "${CONFIG_DIR}/config.yml" -maxdepth 0 \( ! -user hotio -or ! -group hotio \) -exec chown hotio:hotio {} +
 fi
 
+# Create data folder and set permissions
+echo "Setting up data folder..."
+mkdir -p "${CONFIG_DIR}/data"
+chmod "=rwx" "${CONFIG_DIR}/data"
+find "${CONFIG_DIR}/data" -maxdepth 0 \( ! -user hotio -or ! -group hotio \) -exec chown hotio:hotio {} +
+
 # Set up MPLCONFIGDIR
 echo "Setting up MPLCONFIGDIR..."
 mkdir -p "${MPLCONFIGDIR}"
