@@ -2,13 +2,13 @@
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2024-08-30T20:51:38.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/10638879247",
+    "last_updated": "2024-08-30T21:31:30.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/10639275766",
     "latest": true,
     "tags": [
       "release",
-      "release-0.2.2",
-      "release-ceaa242"
+      "release-0.2.3",
+      "release-51efc06"
     ]
   },
   "testing": {
