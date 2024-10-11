@@ -2,13 +2,13 @@
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2024-09-25T05:23:15.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/11026686011",
+    "last_updated": "2024-10-11T06:14:43.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/11284250501",
     "latest": true,
     "tags": [
       "release",
       "release-0.2.3",
-      "release-fb06564"
+      "release-fda419e"
     ]
   },
   "testing": {
