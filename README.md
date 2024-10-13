@@ -1,4 +1,4 @@
-# TGraph Bot (Tautulli Graph Bot)
+# 📊 TGraph Bot (Tautulli Graph Bot)
 
 <p align="center">
   <img src="https://i.imgur.com/L5Tj3nW.png" alt="TGraph Bot"/>
@@ -13,29 +13,38 @@
   <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 20px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 </p>
 
-## 📖 Documentation
+TGraph Bot is a Discord bot that automatically generates and posts Tautulli graphs to a specified Discord channel. It provides insights into your Plex Media Server's activity and performance.
 
-All the documentation for the TGraph Bot is located at the [tgraph-bot-source](https://github.com/engels74/tgraph-bot-source) project page.
+## ✨ Key Features
 
-For more information about the Docker image itself, you can visit [engels74.net](https://engels74.net/containers/tgraph-bot).
+- 🤖 Automated Tautulli graph generation and posting
+- 🎛️ Customizable graph options and update intervals
+- 💬 Interactive Discord slash commands
+- 👤 User-specific graph generation
+- 🌐 Multi-language support (English and Danish)
 
-## 🔍 Preview
+## 👀 Preview
+
 <img src="https://i.imgur.com/UmzyUgW.png" width="50%" alt="An example of how it looks">
 
-## 🆘 Support
+## 🚀 Quick Start
 
-If you need assistance, please open an issue on the `tgraph-bot-source` [GitHub page](https://github.com/engels74/tgraph-bot-source).
+For detailed information on setting up and using TGraph Bot, please refer to our [Wiki](https://github.com/engels74/tgraph-bot-source/wiki). Here's what you'll find:
 
-## 💻 Source Code
+- [🛠️ Installation](https://github.com/engels74/tgraph-bot-source/wiki/01.-Installation)
+- [⚙️ Configuration](https://github.com/engels74/tgraph-bot-source/wiki/02.-Configuration)
+- [🔧 Slash Commands](https://github.com/engels74/tgraph-bot-source/wiki/03.-Slash-Commands)
+- [🔐 Managing Bot Permissions](https://github.com/engels74/tgraph-bot-source/wiki/04.-Managing-Bot-Permissions)
+- [🌐 Language Support](https://github.com/engels74/tgraph-bot-source/wiki/05.-Language-Support)
+- [🤖 Creating a Discord Bot](https://github.com/engels74/tgraph-bot-source/wiki/06.-Creating-a-Discord-Bot)
+- [🔧Troubleshooting](https://github.com/engels74/tgraph-bot-source/wiki/07.-Troubleshooting)
 
-- **Project Source Code**: The source code for the TGraph Bot project is hosted at [engels74/tgraph-bot-source](https://github.com/engels74/tgraph-bot-source).
+## ❓ Need Help?
 
-- **Docker Image Source**: The source files for building the Docker image are hosted at [engels74/tgraph-bot](https://github.com/engels74/tgraph-bot). If you can't find what you're looking for in the `master` branch, check other branches.
+If you encounter any issues, have questions, or need further assistance, please feel free to [create an issue](https://github.com/engels74/tgraph-bot-source/issues) on our GitHub repository. We're here to help!
 
-## 🌟 Show your support
+## 📜 License
 
-You can show your support by:
-- Giving us a star on Docker Hub or GitHub
-- Making a [donation](https://hotio.dev/donate) to hotio, as he's the genius behind the Docker images
+The Docker image is licensed under the GPLv3 License. See the [LICENSE](https://github.com/engels74/tgraph-bot/blob/master/LICENSE) file for details.
 
-Your support is greatly appreciated!
+The source code for the TGraph Bot scripts are licensed under the AGPLv3 License. See the [LICENSE](https://github.com/engels74/tgraph-bot-source/blob/main/LICENSE) file for details.
