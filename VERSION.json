@@ -1,8 +1,8 @@
 {
   "description": "Pre-Releases",
   "latest": false,
-  "upstream_digest_amd64": "sha256:1293943d92922edc8a3c8ed76958db3247efce93e20e64923c192effb998dcde",
-  "upstream_digest_arm64": "sha256:2c8e36a85a549011469a41445f0416cc239d26b6e282b040f0e709226b833109",
+  "upstream_digest_amd64": "sha256:8f8769248b8c870da97c381d1c09fa911f3fdfee7bd763e6c181bec65cc694c5",
+  "upstream_digest_arm64": "sha256:7393f1c423df84505cc10aa99fcd0082e6387b8674ca2269d2b765eee6f28cbb",
   "upstream_image": "ghcr.io/engels74/base-image",
   "upstream_tag": "alpinevpn",
   "version": "0.2.5"
