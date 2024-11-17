@@ -1,0 +1,74 @@
+name: Feature Request
+description: "Have a suggestion for TGraph Bot? Please search through our existing feature requests first and upvote if it already exists."
+labels: ["enhancement"]
+title: "Feature Request: "
+body:
+  - type: checkboxes
+    attributes:
+      label: "Pre-submission Checklist"
+      options:
+        - label: "I have [searched TGraph Bot feature requests](https://github.com/engels74/tgraph-bot/issues?q=label%3Aenhancement) and found no duplicates"
+          required: true
+        - label: "I have reviewed the [TGraph Bot Wiki](https://github.com/engels74/tgraph-bot/wiki) to ensure this feature doesn't already exist"
+          required: true
+
+  - type: textarea
+    id: "describe-solution"
+    attributes:
+      label: "Describe the Feature"
+      description: "A clear and concise description of what you'd like to see added to TGraph Bot."
+      placeholder: |
+        Examples:
+        - Add support for new graph type showing...
+        - Add ability to customize...
+        - Implement new command for...
+    validations:
+      required: true
+
+  - type: textarea
+    id: "related-to-problem"
+    attributes:
+      label: "Is this related to a problem?"
+      description: "Describe what problem this feature would solve."
+      placeholder: "I'm always frustrated when I need to... / It would be helpful if..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: "feature-type"
+    attributes:
+      label: "Feature Category"
+      description: "What aspect of TGraph Bot would this feature enhance?"
+      multiple: false
+      options:
+        - "Graphs & Visualization"
+        - "Discord Commands"
+        - "Configuration Options"
+        - "Tautulli Integration"
+        - "Bot Management"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: "additional-context"
+    attributes:
+      label: "Additional Context"
+      description: "Add any other context, mockups, or screenshots about the feature request here."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: "importance"
+    attributes:
+      label: "Feature Priority"
+      description: "How important would this feature be for your use of TGraph Bot?"
+      multiple: false
+      options:
+        - "1 (Nice to have)"
+        - "2 (Would improve experience)"
+        - "3 (Important)"
+        - "4 (Very Important)"
+        - "5 (Critical functionality)"
+    validations:
+      required: true
