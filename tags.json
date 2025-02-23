@@ -14,13 +14,13 @@
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2025-02-14T21:32:25.000Z",
-    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/13337672412",
+    "last_updated": "2025-02-23T23:20:02.000Z",
+    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/13487853700",
     "latest": true,
     "tags": [
       "release",
-      "release-4.1.17",
-      "release-b9e5327"
+      "release-4.1.18",
+      "release-93cb38d"
     ]
   }
 }
