@@ -2,13 +2,13 @@
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2025-04-16T22:28:33.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/14503545633",
+    "last_updated": "2025-04-17T11:26:35.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/14514272657",
     "latest": true,
     "tags": [
       "release",
       "release-0.3.2",
-      "release-2e407aa"
+      "release-76dc2a1"
     ]
   },
   "testing": {
