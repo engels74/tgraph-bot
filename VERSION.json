@@ -2,7 +2,7 @@
   "description": "Every commit to develop",
   "upstream_digest_amd64": "sha256:593cb680d454da9f083f41657e4f78ae11f836450a6de54617b2ba4cdf1795d5",
   "upstream_digest_arm64": "sha256:55141814d1afb59d290bff843175d53d07161da7986c77e3955bea0e4847b532",
-  "upstream_image": "ghcr.io/hotio/base",
+  "upstream_image": "ghcr.io/engels74/base-image",
   "upstream_tag": "alpinevpn",
   "version": "b75b256be500722c6458e8d108adfc18c8d5a1a1"
 }
