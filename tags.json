@@ -2,25 +2,25 @@
   "nightly": {
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2025-06-27T01:01:53.000Z",
-    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/15915672339",
+    "last_updated": "2025-07-21T13:13:22.000Z",
+    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/16417907237",
     "latest": false,
     "tags": [
       "nightly",
-      "nightly-b75b256be500722c6458e8d108adfc18c8d5a1a1",
-      "nightly-ae2bcb8"
+      "nightly-35e3c66683ed60448478c761162d185a6190e89b",
+      "nightly-b948ad1"
     ]
   },
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2025-06-22T11:50:33.000Z",
-    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/15806251287",
+    "last_updated": "2025-07-19T13:42:26.000Z",
+    "last_updated_url": "https://github.com/hotio/qbitmanage/actions/runs/16389253269",
     "latest": true,
     "tags": [
       "release",
-      "release-4.4.0",
-      "release-7cb68c5"
+      "release-4.5.1",
+      "release-a4950eb"
     ]
   }
 }
