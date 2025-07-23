@@ -6,4 +6,4 @@ umask "${UMASK}"
 cd "${CONFIG_DIR}" || exit 1
 export MPLCONFIGDIR="${CONFIG_DIR}/.config/matplotlib"
 # shellcheck disable=SC2086
-exec s6-setuidgid hotio /usr/bin/tgraph-bot "${CONFIG_DIR}/config.yml" --data-folder "${CONFIG_DIR}/data" --log-folder "${CONFIG_DIR}/logs"
+exec s6-setuidgid hotio /usr/bin/tgraph-bot --config-file "${CONFIG_DIR}/config.yml" --data-folder "${CONFIG_DIR}/data" --log-folder "${CONFIG_DIR}/logs"
