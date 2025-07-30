@@ -2,13 +2,13 @@
   "nightly": {
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2025-07-30T11:51:49.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/16621329813",
+    "last_updated": "2025-07-30T22:59:42.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/16635287036",
     "latest": false,
     "tags": [
       "nightly",
-      "nightly-24d09f2592bb591f613884906fa7bbde4bcbfa1a",
-      "nightly-4613782"
+      "nightly-c21fd269f56e78b161a102cac45d5e8997411b30",
+      "nightly-d3fdaab"
     ]
   },
   "release": {
