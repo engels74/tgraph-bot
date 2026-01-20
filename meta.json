@@ -3,6 +3,6 @@
   "latest": true,
   "upstream_image": "ghcr.io/engels74/base-image",
   "upstream_tag": "alpinevpn",
-  "upstream_tag_sha": "alpinevpn-null",
+  "upstream_tag_sha": "alpinevpn-c78e676",
   "version": "0.3.2"
 }
