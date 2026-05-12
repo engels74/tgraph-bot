@@ -1,5 +1,6 @@
 {
   "description": "Every commit to develop",
+  "packages_hash": "f668109d58f6e04670049e8157a537bd33e1aa10",
   "upstream_image": "ghcr.io/engels74/base-image",
   "upstream_tag": "alpinevpn",
   "upstream_tag_sha": "alpinevpn-f4e73db",
