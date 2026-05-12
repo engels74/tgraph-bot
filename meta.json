@@ -3,6 +3,6 @@
   "packages_hash": "f668109d58f6e04670049e8157a537bd33e1aa10",
   "upstream_image": "ghcr.io/engels74/base-image",
   "upstream_tag": "alpinevpn",
-  "upstream_tag_sha": "alpinevpn-f4e73db",
+  "upstream_tag_sha": "alpinevpn-a7892de",
   "version": "87784dd6255bbf3da172777d78608a038965a542"
 }
